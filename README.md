@@ -6,7 +6,7 @@
     <li>📫 How to contact me: <a href="mailto:george.soares509@gmail.com">george.soares509@gmail.com</a></li>
 </ul>
 
-<div align="center">
+<div align="center"><br>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=george-b1t&show_icons=true&theme=dracula&count_private=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-b1t&layout=compact&langs_count=6&theme=dracula"/>
 </div>
