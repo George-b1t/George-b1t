@@ -33,14 +33,14 @@
 </div><br>
 
 ## Working With
-<div display="flex">
-    <ul>
+<div display="inline_block">
+    <ul align="center">
         <li>TypeScript</li>
         <li>NextJS</li>
         <li>Sass</li>
         <li>ChartJS</li>
     </ul>
-    <ul>
+    <ul align="center">
         <li>NodeJS</li>
         <li>PostgresSQL</li>
         <li>Typeorm</li>
