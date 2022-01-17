@@ -33,21 +33,19 @@
 </div><br>
 
 ## Working With
-<div display="inline_block">
-    <ul align="center">
-        <li>TypeScript</li>
-        <li>NextJS</li>
-        <li>Sass</li>
-        <li>ChartJS</li>
-    </ul>
-    <ul align="center">
-        <li>NodeJS</li>
-        <li>PostgresSQL</li>
-        <li>Typeorm</li>
-        <li>AWS</li>
-        <li>Docker</li>
-    </ul>
-</div>
+<ul>
+    <li>TypeScript</li>
+    <li>NextJS</li>
+    <li>Sass</li>
+    <li>ChartJS</li>
+</ul>
+<ul>
+    <li>NodeJS</li>
+    <li>PostgresSQL</li>
+    <li>Typeorm</li>
+    <li>AWS</li>
+    <li>Docker</li>
+</ul>
     
 ## Social
 
