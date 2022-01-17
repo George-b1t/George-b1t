@@ -33,7 +33,7 @@
 </div><br>
 
 ## Working With
-<div display="inline_block">
+<div display="flex">
     <ul>
         <li>TypeScript</li>
         <li>NextJS</li>
