@@ -11,7 +11,7 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-b1t&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-<div display="inline_block"><br>
+<div display="inline_block">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
@@ -29,12 +29,6 @@
     <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
-
-    <ul>
-        <li>Next.js</li>
-        <li>Express</li>
-        <li>Pandas</li>
-    </ul>
  
 <div>
     <a href="https://instagram.com/george_scj"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
