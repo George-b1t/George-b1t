@@ -11,7 +11,7 @@
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=george-b1t&layout=compact&langs_count=6&theme=dracula"/>
 </div><br>
 
-## Technologies
+## Some Technologies
 
 <div display="inline_block"><br>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
