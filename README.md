@@ -35,9 +35,10 @@
 ## Working With
 <ul>
     <li>TypeScript</li>
-    <li>Next.js</li>
+    <li>NextJS</li>
     <li>Sass</li>
-    <li>Chart.js</li>
+    <li>ChartJS</li>
+    <li>NodeJS</li>
     <li>PostgresSQL</li>
     <li>Typeorm</li>
     <li>AWS</li>
