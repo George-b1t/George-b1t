@@ -32,6 +32,17 @@
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div><br>
 
+## Working With
+<ul>
+    <li>TypeScript</li>
+    <li>Next.js</li>
+    <li>Sass</li>
+    <li>Chart.js</li>
+    <li>PostgresSQL</li>
+    <li>Typeorm</li>
+    <li>AWS</li>
+</ul>
+    
 ## Social
 
 <div><br>
