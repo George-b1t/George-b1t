@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Soares</h1>
 <h3 align="center">I’m a passionate young developer with a love for programming and continuous learning. My primary focus is on creating private web software, but I’m always eager to explore new technologies and expand my skill set. I believe that every project is an opportunity to learn and grow, and I strive to build efficient, scalable, and user-friendly solutions. Whether it’s experimenting with new frameworks or diving deep into complex problems, coding is where I find my passion and creativity.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george-b1t" alt="george-b1t" /></a> </p>
-
 - 🔭 I’m currently working on [Codepusher](https://codepusher.io/)
 
 - 🌱 I’m currently learning **the best market practices.**
