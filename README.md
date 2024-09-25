@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George Soares</h1>
 <h3 align="center">I’m a passionate young developer with a love for programming and continuous learning. My primary focus is on creating private web software, but I’m always eager to explore new technologies and expand my skill set. I believe that every project is an opportunity to learn and grow, and I strive to build efficient, scalable, and user-friendly solutions. Whether it’s experimenting with new frameworks or diving deep into complex problems, coding is where I find my passion and creativity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=george-b1t&label=Profile%20views&color=0e75b6&style=flat" alt="george-b1t" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=george-b1t" alt="george-b1t" /></a> </p>
 
 - 🔭 I’m currently working on [Codepusher](https://codepusher.io/)
@@ -28,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=george-b1t&show_icons=true&locale=en" alt="george-b1t" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=george-b1t&" alt="george-b1t" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=george-b1t&count_private=true" alt="george-b1t" /></p>
